@@ -22,3 +22,9 @@ upload: ./dummy1.yml to s3://preethi-guvi-task/dummy1.yml
 upload: ./dummy.yml to s3://preethi-guvi-task/dummy.yml
 [ec2-user@ip-172-31-3-253 ~]$ aws s3 cp dummy2.yml s3://preethi-guvi-task/
 upload: ./dummy2.yml to s3://preethi-guvi-task/dummy2.yml
+
+
+![Screenshot (260)](https://user-images.githubusercontent.com/116999513/215096716-4fda059c-0401-48b0-a007-68f43d12787a.png)
+![Screenshot (261)](https://user-images.githubusercontent.com/116999513/215096724-1ad927a4-2420-4bc4-8628-d9675a0f9fd1.png)
+![Screenshot (263)](https://user-images.githubusercontent.com/116999513/215096735-c4c8c220-ae95-41a7-9573-718d96eb0bfc.png)
+![Screenshot (264)](https://user-images.githubusercontent.com/116999513/215096742-b2b99503-9c1f-4711-becd-e307550ab4b0.png)
