@@ -1,8 +1,8 @@
 # clitask
--linux-2/
- touch a.txt
- touch b.txt
- vi dummy.yml
+-linux-2/  
+ touch a.txt  
+ touch b.txt  
+ vi dummy.yml  
 vi dummy1.yml
  vi dummy2.yml
  ls
